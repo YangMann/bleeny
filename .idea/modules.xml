@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bleeny.iml" filepath="$PROJECT_DIR$/bleeny.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bleeny-android/bleeny-android.iml" filepath="$PROJECT_DIR$/bleeny-android/bleeny-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bleeny-server/bleeny-server.iml" filepath="$PROJECT_DIR$/bleeny-server/bleeny-server.iml" />
+    </modules>
+  </component>
+</project>
+
